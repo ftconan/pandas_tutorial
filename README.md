@@ -5,3 +5,4 @@
   2. pip
   3. source
 * 10 minutes to pandas
+* Essential Basic
