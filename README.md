@@ -6,3 +6,9 @@
   3. source
 * 10 minutes to pandas
 * Essential Basic
+* Intro to Data Structures
+  1. Series
+  2. DataFrame
+  3. Panel
+  4. Deprecate Panel
+
