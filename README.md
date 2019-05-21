@@ -15,3 +15,4 @@
 * Tutorials
 * User Guide
   1. IO Tools
+  2. Indexing and Selecting Data
