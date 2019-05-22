@@ -16,3 +16,22 @@
 * User Guide
   1. IO Tools
   2. Indexing and Selecting Data
+  3. MultiIndex/Advanced Indexing
+  4. Merge,join,and concatenate
+  5. Reshaping and Pivot Tables
+  6. Working with Text Data
+  7. Working with missing data
+  8. Categorical Data
+  9. Nullable Integer Data Type
+  10. Visualization
+  11. Computational tools
+  12. Group By:split-apply-combine
+  13. Time Series/Date functionality
+  14. Time Deltas
+  15. Styling
+  16. Options and Settings
+  17. Enhancing Performance
+  18. Sparse data structures
+  19. Frequently Asked Questions(FAQ)
+  20. Cookbook
+
